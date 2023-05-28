@@ -12,7 +12,7 @@ Neste portfólio, você encontrará meus projetos e estudos que desenvolvi. Cada
 
 Aqui estão alguns dos projetos em destaque neste repositório:
 
-- [Projeto de Lista de Tarefas em Python]([link_do_projeto_1](https://github.com/Flaviafclaro/portifolio/tree/main/ListaDeTarefas)): Uma aplicação simples para gerenciar suas tarefas diárias. Com esta lista de tarefas, você pode adicionar e remover tarefas, mantendo um registro organizado das suas atividades. Acompanhe suas tarefas pendentes e mantenha-se produtivo utilizando esta solução minimalista em Python.
+- [Projeto de Lista de Tarefas em Python](https://github.com/Flaviafclaro/portifolio/tree/main/ListaDeTarefas): Uma aplicação simples para gerenciar suas tarefas diárias. Com esta lista de tarefas, você pode adicionar e remover tarefas, mantendo um registro organizado das suas atividades. Acompanhe suas tarefas pendentes e mantenha-se produtivo utilizando esta solução minimalista em Python.
 
 Sinta-se à vontade para explorar os projetos e estudar o código-fonte. Caso tenha alguma dúvida ou feedback, fique à vontade para entrar em contato.
 
