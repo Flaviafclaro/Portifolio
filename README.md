@@ -2,9 +2,7 @@
 
 Bem-vindo ao meu Portfólio de Projetos e Estudos em Python! Neste repositório, compartilho uma meus projetos pessoais e estudos relacionados à linguagem de programação Python.
 
-## Sobre mim
-
-Meu nome é Flávia, sou um entusiasta de Python e estou sempre buscando aprimorar minhas habilidades de programação. Sou apaixonada por resolver problemas utilizando a simplicidade e a eficiência da linguagem Python.
+## O que você vai encontrar aqui?
 
 Neste portfólio, você encontrará meus projetos e estudos que desenvolvi. Cada projeto aborda diferentes aspectos e domínios da programação em Python, desde aplicações simples até soluções mais complexas.
 
