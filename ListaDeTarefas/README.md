@@ -1,5 +1,6 @@
 Projeto Simples Lista de Tarefas em Python <p>
 
+*********************************************************************************<p>
 São exibidas 5 opções <p>
 
 1 - adicionar uma tarefa </br>
@@ -15,4 +16,5 @@ Além disso tem a opção de encerrar.<p>
 Validação de data e hora </br>
 Validação de opção correta<p>
 
-Tudo armazenado em arquivos de texto
+Tudo armazenado em arquivos de texto </br>
+*********************************************************************************
