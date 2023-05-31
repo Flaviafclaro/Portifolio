@@ -297,7 +297,6 @@ a:hover{
     font-size: 14px;
 }
 
-/**/
 
 .footer{
     width: 100%;
@@ -307,4 +306,39 @@ a:hover{
     align-items: center;
     justify-content: center;
     color: #1e1e2a;
+}
+
+
+@media (max-width: 768px) {
+    .social-media {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .social-media a {
+      margin-top: 0.5rem;
+      padding: 0.5rem 2rem;
+    }
+
+    h1 {
+      font-size: 1em;
+    }
+
+    h2 {
+        font-size: 1em;
+        background-color: #b8b9b9;
+      }
+    .card-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card-text {
+        width: 80%;
+        text-align: center;
+    }
+
+    .card {
+        margin: 3rem;
+    }
 }
