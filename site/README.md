@@ -1,6 +1,6 @@
-Este projeto é o meu portfólio pessoal, onde compartilho uma seleção dos meus projetos e estudos como programadora. 
+Este projeto é o meu site pessoal, onde compartilho uma seleção dos meus projetos e estudos como programadora. 
 
-O portfólio é construído usando HTML e CSS, onde incluí estilos e animações simples em um site sóbrio e minimalista. 
+Trata-se de um site com web design responsivo construído usando HTML e CSS, onde incluí estilos e animações simples em um site sóbrio e minimalista. 
 A página inicial apresenta informações sobre mim, como meu nome, profissão e links para minhas redes sociais, como o LinkedIn e o GitHub.
 
 ![print1](https://github.com/Flaviafclaro/Portifolio/assets/93830753/519a6a93-2159-4609-ac8b-3c8b8351bd01)
