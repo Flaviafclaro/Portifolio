@@ -11,6 +11,8 @@ Neste portfólio, você encontrará meus projetos e estudos que desenvolvi. Cada
 Aqui estão alguns dos projetos em destaque neste repositório:
 
 - [Projeto de Lista de Tarefas em Python](https://github.com/Flaviafclaro/portifolio/tree/main/ListaDeTarefas): Uma aplicação simples para gerenciar suas tarefas diárias. Com esta lista de tarefas, você pode adicionar e remover tarefas, mantendo um registro organizado das suas atividades. Acompanhe suas tarefas pendentes e mantenha-se produtivo utilizando esta solução minimalista em Python.
+- [Meu Site Profissional](https://github.com/Flaviafclaro/Portifolio/tree/main/site): Um site em HLML e CSS desenvolvido para a minha apresentação profissional com um visual minimalista e algumas animações utilizando o CSS.
+- [Manipulação de PDF](https://github.com/Flaviafclaro/Portifolio/tree/main/manipulacao_PDF): Uma aplicação simples desenvolvida em Python onde é possível gerar um orçamento no formato PDF, os dados são inseridos peo usuário em um template pré carregado, o arquivo gerado estará pronto para ser enviado ou impresso.
 
 Sinta-se à vontade para explorar os projetos e estudar o código-fonte. Caso tenha alguma dúvida ou feedback, fique à vontade para entrar em contato.
 
