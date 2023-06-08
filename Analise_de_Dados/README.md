@@ -68,7 +68,25 @@ Certifique-se de ter o Python instalado e as bibliotecas necessárias antes de e
 
 ## Exemplos de Gráficos Gerados
 
-Aqui estão alguns exemplos dos gráficos gerados:
+Os gráficos interativos estão hospedados nos links abaixo:
+
+![Gráfico animado/dinâmico](https://flaviafclaro.github.io/site/graficos/grafico_dinamico.html)
+
+![Receita por Loja](https://flaviafclaro.github.io/site/graficos/grafico-loja.html)
+
+![Receita por Cidade](https://flaviafclaro.github.io/site/graficos/grafico-cidade.html)
+
+![Receita por Estado](https://flaviafclaro.github.io/site/graficos/grafico-estado.html)
+
+![Receita por Forma de Pagamento](https://flaviafclaro.github.io/site/graficos/grafico-forma_pagamento.html)
+
+![Receita por Local de Comsumo](https://flaviafclaro.github.io/site/graficos/grafico-local_consumo.html)
+
+![Receita por Região](https://flaviafclaro.github.io/site/graficos/grafico-regiao.html)
+
+![Receita por Tamanho do Copo](https://flaviafclaro.github.io/site/graficos/grafico-tamanho.html)
+
+Abaixo estão prévias dos gráficos gerados:
 ![Receita_Cidade](https://github.com/Flaviafclaro/Portifolio/assets/93830753/52d605cc-4712-4889-b2dc-d81da3ac50be)
 ![Receita_Estado](https://github.com/Flaviafclaro/Portifolio/assets/93830753/6041d009-21da-477d-883b-87697dc0a5a7)
 ![Receita_Forma![Receita_FormaPgto](https://github.com/Flaviafclaro/Portifolio/assets/93830753/110d73eb-b2b9-4a92-9820-aab7993795a0)
