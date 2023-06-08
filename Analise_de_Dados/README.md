@@ -70,21 +70,21 @@ Certifique-se de ter o Python instalado e as bibliotecas necessárias antes de e
 
 Os gráficos interativos estão hospedados nos links abaixo:
 
-https://flaviafclaro.github.io/site/graficos/grafico_dinamico.html
+Gráfico Dinâmido/Animado: https://flaviafclaro.github.io/site/graficos/grafico_dinamico.html
 
-![Receita por Loja](https://flaviafclaro.github.io/site/graficos/grafico-loja.html)
+Receita por Loja: https://flaviafclaro.github.io/site/graficos/grafico-loja.html
 
-![Receita por Cidade](https://flaviafclaro.github.io/site/graficos/grafico-cidade.html)
+Receita por Cidade: https://flaviafclaro.github.io/site/graficos/grafico-cidade.html
 
-![Receita por Estado](https://flaviafclaro.github.io/site/graficos/grafico-estado.html)
+Receita por Estado: https://flaviafclaro.github.io/site/graficos/grafico-estado.html
 
-![Receita por Forma de Pagamento](https://flaviafclaro.github.io/site/graficos/grafico-forma_pagamento.html)
+Receita por Forma de Pagamento: https://flaviafclaro.github.io/site/graficos/grafico-forma_pagamento.html
 
-![Receita por Local de Comsumo](https://flaviafclaro.github.io/site/graficos/grafico-local_consumo.html)
+Receita por Local de Comsumo: https://flaviafclaro.github.io/site/graficos/grafico-local_consumo.html
 
-![Receita por Região](https://flaviafclaro.github.io/site/graficos/grafico-regiao.html)
+Receita por Região: https://flaviafclaro.github.io/site/graficos/grafico-regiao.html
 
-![Receita por Tamanho do Copo](https://flaviafclaro.github.io/site/graficos/grafico-tamanho.html)
+Receita por Tamanho do Copo: https://flaviafclaro.github.io/site/graficos/grafico-tamanho.html
 
 Abaixo estão prévias dos gráficos gerados:
 ![Receita_Cidade](https://github.com/Flaviafclaro/Portifolio/assets/93830753/52d605cc-4712-4889-b2dc-d81da3ac50be)
