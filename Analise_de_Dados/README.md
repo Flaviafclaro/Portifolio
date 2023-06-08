@@ -1,6 +1,6 @@
 # Análise Exploratória de Vendas (AnaliseExploratoria.py)
 
-Este é um projeto de análise exploratória de vendas utilizando Python e a biblioteca pandas. O objetivo deste projeto é explorar um conjunto de dados de vendas e realizar diversas análises estatísticas e de agrupamento para extrair insights e informações úteis.
+Este é um projeto de análise exploratória de vendas utilizando Python e a biblioteca pandas. O objetivo deste projeto é explorar um conjunto de dados de vendas de uma planilha excel com 70 mil registros e realizar diversas análises estatísticas e de agrupamento para extrair insights e informações úteis.
 
 ## Funcionalidades
 
