@@ -70,7 +70,7 @@ Certifique-se de ter o Python instalado e as bibliotecas necessárias antes de e
 
 Os gráficos interativos estão hospedados nos links abaixo:
 
-Gráfico Dinâmido/Animado: https://flaviafclaro.github.io/site/graficos/grafico_dinamico.html
+<a href="https://flaviafclaro.github.io/site/graficos/grafico_dinamico.html" target="_blank">Gráfico Dinâmico/Animado</a>
 
 Receita por Loja: https://flaviafclaro.github.io/site/graficos/grafico-loja.html
 
