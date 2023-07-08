@@ -16,6 +16,12 @@ O Projeto CRUD em Python com SQLite é uma aplicação de gerenciamento de produ
 
 - **Busca de Produtos**: Permite buscar produtos por nome, exibindo apenas os resultados correspondentes à busca podendo editar ou excluir na sequencia.
 
+![2023-07-08_16h59_07](https://github.com/Flaviafclaro/Portifolio/assets/93830753/2c2dca81-32e5-4bb8-888d-1dcc90eaa329)
+
+
+![2023-07-08_16h59_26](https://github.com/Flaviafclaro/Portifolio/assets/93830753/90cf5e1f-dad5-4cb9-9e0e-1d86ec2227ac)
+
+
 ## Utilização
 
 Para executar o projeto, siga as etapas abaixo:
