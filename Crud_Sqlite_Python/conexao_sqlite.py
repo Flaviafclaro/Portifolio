@@ -2,7 +2,7 @@ import sqlite3
 
 class Comunication():
     def __init__(self):
-        self.conexao = sqlite3.connect('../adega.db')
+        self.conexao = sqlite3.connect('adega.db')
              
     def inserir_produto(self, codigo, nome, modelo, preco, quantidade):
         cursor = self.conexao.cursor()
