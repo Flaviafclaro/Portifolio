@@ -10,7 +10,7 @@ Neste portfólio, você encontrará meus projetos e estudos que desenvolvi. Cada
 
 Aqui estão alguns dos projetos em destaque neste repositório:
 
-- [CRUD (Python/SqLite](https://github.com/Flaviafclaro/Portifolio/tree/main/Crud_Sqlite_Python): O projeto apresenta as principais funcionalidades de um CRUD, como registro, leitura, atualização e exclusão dados. Além disso, possui recursos adicionais, como a busca de produtos por nome, foi utilizada a biblioteca PyQt5 para a parte visual.
+- [CRUD (Python/SqLite)](https://github.com/Flaviafclaro/Portifolio/tree/main/Crud_Sqlite_Python): O projeto apresenta as principais funcionalidades de um CRUD, como registro, leitura, atualização e exclusão dados. Além disso, possui recursos adicionais, como a busca de produtos por nome, foi utilizada a biblioteca PyQt5 para a parte visual.
 - [Meu Site Profissional](https://github.com/Flaviafclaro/Portifolio/tree/main/site): Um site em HLML e CSS desenvolvido para a minha apresentação profissional com um visual minimalista e algumas animações utilizando o CSS.
 - [Manipulação de PDF](https://github.com/Flaviafclaro/Portifolio/tree/main/manipulacao_PDF): Uma aplicação simples desenvolvida em Python onde é possível gerar um orçamento no formato PDF, os dados são inseridos peo usuário em um template pré carregado, o arquivo gerado estará pronto para ser enviado ou impresso.
 
